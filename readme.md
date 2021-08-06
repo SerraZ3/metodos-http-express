@@ -1,4 +1,4 @@
-# Exemplos SIMPLES http com express
+# Exemplo SIMPLES de http com express
 
 Para instalar
 
